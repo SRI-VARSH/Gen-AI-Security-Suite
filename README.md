@@ -110,4 +110,4 @@ result = full_pipeline("What is the capital of France?")
 
 ## 🛠️ Tech Stack
 
-`Python` · `scikit-learn` · `sentence-transformers` · `Google Gemini` · `LangChain` · `HuggingFace Datasets` · `LightGBM` · `pandas`
+`Python` · `scikit-learn` · `sentence-transformers` · `Google Gemini` · `LangChain` · `HuggingFace Datasets` · `pandas`
